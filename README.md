@@ -168,7 +168,7 @@ https://github.com/stotiks/chia-plotter/releases
   Then, clone and compile the project:
   ```bash
   # Checkout the source and install
-  git clone https://github.com/overlocustr/madMAx43v3r.git
+  git clone https://github.com/overlocustr/chia-plotter.git
   cd chia-plotter
 
   git submodule update --init
@@ -181,7 +181,7 @@ https://github.com/stotiks/chia-plotter/releases
   <summary>CentOS 7</summary>
   
   ```bash
-  git clone https://github.com/overlocustr/madMAx43v3r.git
+  git clone https://github.com/overlocustr/chia-plotter.git
   cd chia-plotter
 
   git submodule update --init
@@ -219,7 +219,7 @@ https://github.com/stotiks/chia-plotter/releases
   sudo make install
   # Checkout the source and install
   cd ~/
-  git clone https://github.com/overlocustr/madMAx43v3r.git 
+  git clone https://github.com/overlocustr/chia-plotter.git 
   cd ~/chia-plotter
   git submodule update --init
   ./make_devel.sh
@@ -233,7 +233,7 @@ https://github.com/stotiks/chia-plotter/releases
   ```bash
   sudo apt install -y libsodium-dev cmake g++ git build-essential
   # Checkout the source and install
-  git clone https://github.com/overlocustr/madMAx43v3r.git 
+  git clone https://github.com/overlocustr/chia-plotter.git 
   cd chia-plotter
 
   git submodule update --init
@@ -254,7 +254,7 @@ https://github.com/stotiks/chia-plotter/releases
   sudo apt install -t buster-backports cmake
   sudo apt install -y libsodium-dev g++ git
   # Checkout the source and install
-  git clone https://github.com/overlocustr/madMAx43v3r.git 
+  git clone https://github.com/overlocustr/chia-plotter.git 
   cd chia-plotter
 
   git submodule update --init
@@ -298,7 +298,7 @@ https://github.com/stotiks/chia-plotter/releases
   ```
 
   ```
-  git clone https://github.com/overlocustr/madMAx43v3r.git 
+  git clone https://github.com/overlocustr/chia-plotter.git 
   cd chia-plotter
   git submodule update --init
   ./make_devel.sh
